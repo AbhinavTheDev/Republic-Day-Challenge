@@ -17,6 +17,15 @@ header {
 nav {
   background-color: #444;
   padding: 0.5em;
+  display: flex;
+  justify-content: center;
+}
+
+@media (max-width: 600px) {
+  nav {
+    flex-direction: column; /* Stack the buttons vertically for small screens */
+    align-items: center; /* Center align the buttons for small screens */
+  }
 }
 
 ul {
@@ -28,7 +37,7 @@ ul {
 
 li {
   display: inline-block;
-  margin-right: 10px;
+  margin: 10px;
 }
 
 a {
