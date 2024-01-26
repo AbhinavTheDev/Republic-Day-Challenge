@@ -1,6 +1,6 @@
 # Republic-Day-Challenge
-I made a website for republic day challenge by Scaler Community.
+I made a website for the Republic Day challenge by Scaler Community.
 
-Here is the link of website :
-URL:- https://gregarious-alfajores-ab7fe1.netlify.app 
+Here is the link to the website :
+URL:- https://26janchallenge.netlify.app 
 
